@@ -167,6 +167,19 @@ For subject-level evaluation, including AHI estimation and record-level sleep-di
 python evaluate_recording.py
 ```
 
+## Example Results
+
+### Segment-Level Confusion Matrix
+
+![Segment-Level Confusion Matrix](fig/segment_cm_apnea_ECG.png)
+
+### Record-Level Confusion Matrix
+
+![Record-Level Confusion Matrix](fig/record_cm_apnea_ECG.png)
+
+### AHI Regression
+
+![AHI Regression](fig/ahi_regression_apnea_ECG.png)
 ## Citation
 
 If this repository contributes to your research, we would appreciate it if you cite the associated manuscript.
