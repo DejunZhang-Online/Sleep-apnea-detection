@@ -1,0 +1,14 @@
+numpy>=1.23
+scipy>=1.10
+pandas>=1.5
+matplotlib>=3.6
+scikit-learn>=1.2
+tqdm>=4.64
+
+torch>=2.1
+tensorboardX>=2.6
+einops>=0.7
+
+wfdb>=4.1
+biosppy>=1.0
+pyedflib>=0.1.36

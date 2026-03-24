@@ -11,6 +11,17 @@ This repository contains an implementation for ECG-based sleep apnea detection u
 The dataset can be downloaded from the links provided below.
 - [Apnea-ECG](https://physionet.org/content/apnea-ecg/1.0.0/)
 - [UCDDB](https://physionet.org/content/ucddb/1.0.0/)
+
+## Figures
+
+### Workflow
+
+![Workflow](fig/workflow.png)
+
+### Model Architecture
+
+![Model Architecture](fig/model.png)
+
 ## Overview
 
 The overall pipeline is:
