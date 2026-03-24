@@ -12,6 +12,7 @@ The dataset can be downloaded from the links provided below.
 - [Apnea-ECG](https://physionet.org/content/apnea-ecg/1.0.0/)
 - [UCDDB](https://physionet.org/content/ucddb/1.0.0/)
 
+DOI: https://doi.org/10.5281/zenodo.19199035
 ## Figures
 
 ### Workflow
