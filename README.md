@@ -161,7 +161,9 @@ Outputs are saved to:
 
 ## Evaluation
 For subject-level evaluation, including AHI estimation and record-level sleep-disordered breathing detection, run:
-
+```bash
+python evaluate_recording.py
+```
 
 ## Citation
 
