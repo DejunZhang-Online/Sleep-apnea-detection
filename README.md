@@ -169,7 +169,3 @@ python evaluate_recording.py
 
 If this repository contributes to your research, we would appreciate it if you cite the associated manuscript.
 The citation information will be updated after formal publication or public preprint release.
-
-```bash
-python evaluate_recording.py
-```
