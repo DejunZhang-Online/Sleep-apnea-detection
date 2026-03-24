@@ -1,5 +1,5 @@
 # ECG-Based Sleep Apnea Detection
-
+DOI: https://doi.org/10.5281/zenodo.19199035
 This repository contains an implementation for ECG-based sleep apnea detection using:
 
 - RRI and RPA feature extraction from single-lead ECG
@@ -12,7 +12,7 @@ The dataset can be downloaded from the links provided below.
 - [Apnea-ECG](https://physionet.org/content/apnea-ecg/1.0.0/)
 - [UCDDB](https://physionet.org/content/ucddb/1.0.0/)
 
-DOI: https://doi.org/10.5281/zenodo.19199035
+
 ## Figures
 
 ### Workflow
