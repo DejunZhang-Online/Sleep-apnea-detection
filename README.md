@@ -1,7 +1,7 @@
 # ECG-Based Sleep Apnea Detection
 DOI: https://doi.org/10.5281/zenodo.19199035
 
-This repository is associated with the manuscript submitted to The Visual Computer and provides an implementation for ECG-based sleep apnea detection using:
+This repository is associated with the manuscript submitted to the _Visual Computer_ and provides an implementation for ECG-based sleep apnea detection using:
 
 - RRI and RPA feature extraction from single-lead ECG
 - a segment-level dual-branch encoder for local representation learning
